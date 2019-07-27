@@ -29,5 +29,6 @@ https://linuxacademy.com/
 Pass:@coin-link.com
 email:yila@coin-link.com
 simplecoin notls linux:
-https://github.com/zshroot/simplecoinlinux/archive/master.zip
+
 ---------------------------------------------------------
+git clone https://github.com/zshroot/allcoins.git
